@@ -354,3 +354,5 @@ main()
 
 
 # http://blog.csdn.net/u011497262/article/details/52325705
+if __name__ == "__main__":
+    main()
